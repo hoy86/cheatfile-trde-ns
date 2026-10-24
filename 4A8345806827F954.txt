@@ -1,12 +1,12 @@
-[Infinite Ammo & Items (pickup langsung maksimal)]
+[Infinite Ammo & Items (Max on Pickup)]
 04000000 00A39C9C D503201F
 04000000 00A315E8 2A1A03F8
 
-[No Reload (clip tidak berkurang)]
+[No Reload]
 04000000 00A35758 D503201F
 04000000 00A357C8 D503201F
 
-[Infinite HP (tetap bisa mati karena jatuh/instakill)]
+[Infinite HP (Scripted Deaths Still Apply)]
 04000000 00D75640 36F80157
 04000000 00D75644 37000134
 04000000 00D75648 F9400A70
@@ -49,7 +49,7 @@
 04000000 00D756CC 17E3C973
 04000000 00667C94 141C368B
 
-[Max XP (999999) - dapat XP sekali untuk naik level]
+[Max XP (999999)]
 04000000 00D756D0 528847E9
 04000000 00D756D4 72A001E9
 04000000 00D756D8 B9250A69
